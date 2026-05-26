@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.1",
-  "min_version": "1.0.1",
+  "latest_version": "1.0.2",
+  "min_version": "1.0.2",
   "force_update": true,
-  "release_notes": "Massive UI enhancements, faster Recently Played loading, and fixed equalizer animations.",
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.0.1"
+  "download_url": "https://github.com/hunterdp11/Dp-s-Lab/releases/latest",
+  "release_notes": "Added a premium Onboarding Splash Loader feed pre-caching sequence, refined dev-intro dialog, and improved dynamic accent update sheet."
 }
