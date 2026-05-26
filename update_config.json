@@ -2,6 +2,6 @@
   "latest_version": "1.0.4",
   "min_version": "1.0.4",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.0.4/app-arm64-v8a-release.apk",
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.0.4",
   "release_notes": "Critical fix: Next/Previous buttons and auto-play now work correctly on all Samsung devices."
 }
