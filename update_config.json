@@ -2,6 +2,6 @@
   "latest_version": "1.0.2",
   "min_version": "1.0.2",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze/releases/latest",
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/latest",
   "release_notes": "Added a premium Onboarding Splash Loader feed pre-caching sequence, refined dev-intro dialog, and improved dynamic accent update sheet."
 }
