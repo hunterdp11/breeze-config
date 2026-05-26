@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0",
-  "min_version": "1.0.0",
-  "force_update": false,
-  "release_notes": "Initial release.",
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/latest"
+  "latest_version": "1.0.1",
+  "min_version": "1.0.1",
+  "force_update": true,
+  "release_notes": "Massive UI enhancements, faster Recently Played loading, and fixed equalizer animations.",
+  "download_url": "https://github.com/hunterdp11/Dp-s-Lab/releases/latest"
 }
