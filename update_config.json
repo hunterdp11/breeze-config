@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.8",
+  "latest_version": "1.0.8-hotfix.1",
   "min_version": "1.0.8",
-  "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.0.8",
-  "release_notes": "Engineered a low-latency UI pipeline: implemented concurrent I/O for 2x faster lyrics delivery, added GPU RepaintBoundaries to eliminate swipe jank, patched redundant history state-rebuilds."
+  "force_update": false,
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.0.8-hotfix.1",
+  "release_notes": "Hotfix (Optional): Resolved a critical bug causing the background player to be aggressively killed on Realme UI, ColorOS, MIUI, and OxygenOS during track skips."
 }
