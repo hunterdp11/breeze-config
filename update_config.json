@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.7",
-  "min_version": "1.0.7",
+  "latest_version": "1.0.8",
+  "min_version": "1.0.8",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.0.7",
-  "release_notes": "Fixed aggressive memory limits and fallback logic that caused some tracks to load in low-resolution. Album art is now crystal clear on high-DPI screens."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.0.8",
+  "release_notes": "Engineered a low-latency UI pipeline: implemented concurrent I/O for 2x faster lyrics delivery, added GPU RepaintBoundaries to eliminate swipe jank, patched redundant history state-rebuilds."
 }
