@@ -3,5 +3,5 @@
   "min_version": "1.0.9",
   "force_update": true,
   "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/1.0.9",
-  "release_notes": "Hotfix (Optional): Resolved a critical bug causing the background player to be aggressively killed on Realme UI, ColorOS, MIUI, and OxygenOS during track skips."
+  "release_notes": "Resolved a critical bug causing the background player to be aggressively killed on Realme UI, ColorOS, MIUI, and OxygenOS during track skips."
 }
