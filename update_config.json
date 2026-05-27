@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.6",
-  "min_version": "1.0.6",
+  "latest_version": "1.0.7",
+  "min_version": "1.0.7",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.0.6",
-  "release_notes": "Major UI & Stability Upgrade! Features a new global Pin-to-Home system, hyper-accurate album art colors in the full-screen player, razor-sharp thumbnail rendering and many more changes!."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.0.7",
+  "release_notes": "Fixed aggressive memory limits and fallback logic that caused some tracks to load in low-resolution. Album art is now crystal clear on high-DPI screens."
 }
