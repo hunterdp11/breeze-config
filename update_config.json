@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.1",
-  "min_version": "1.1.1",
+  "latest_version": "1.1.2",
+  "min_version": "1.1.2",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.1.1",
-  "release_notes": "Fixed system navigation bar UI overlaps."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.1.2",
+  "release_notes": "Fixed OEM Background Kills, Fixed App Freezing, Smart Autoplay, Audio Focus Fixed, UI Scaling Fix."
 }
