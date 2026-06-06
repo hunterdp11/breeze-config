@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.5",
-  "min_version": "1.1.5",
+  "latest_version": "1.1.6",
+  "min_version": "1.1.6",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.1.5",
-  "release_notes": "• Fixed playback race conditions where the old song would mistakenly keep playing\n• Permanently fixed 'Ghost Pins' resurrecting after being deleted\n• Added elegant loading spinners to the Mini Player\n• Rebuilt Account Deletion to ensure a perfect 100% data wipe."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.1.6",
+  "release_notes": "• Home Feed Stability: Fixed a severe bug where the home shelves would sometimes fetch playlists or 24/7 live streams instead of standard songs, which completely broke playback and seekbars.\n• Cache Purging: Added automatic cleanup for corrupted cache. Your home shelf will automatically replace unplayable tracks with valid songs on launch."
 }
