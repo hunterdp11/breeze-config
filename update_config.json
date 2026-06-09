@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.6",
-  "min_version": "1.1.6",
+  "latest_version": "1.1.7",
+  "min_version": "1.1.7",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.1.6",
-  "release_notes": "• Home Feed Stability: Fixed a severe bug where the home shelves would sometimes fetch playlists or 24/7 live streams instead of standard songs, which completely broke playback and seekbars.\n• Cache Purging: Added automatic cleanup for corrupted cache. Your home shelf will automatically replace unplayable tracks with valid songs on launch."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.1.7",
+  "release_notes": "• Removed playback delays and stutters for instant song starting.\n• Completely overhauled lyrics engine for faster loading and perfect syncing. (Note: Lyrics are now disabled by default for performance; enable them anytime in Settings).\n• Redesigned Smart Playlists with dynamic 'currently playing' album art and beautiful shadow UI.\n• Fixed play count tracking for repeating songs."
 }
