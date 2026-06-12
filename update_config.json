@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.7",
+  "latest_version": "1.1.8",
   "min_version": "1.1.7",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/tag/v1.1.7",
-  "release_notes": "• Removed playback delays and stutters for instant song starting.\n• Completely overhauled lyrics engine for faster loading and perfect syncing. (Note: Lyrics are now disabled by default for performance; enable them anytime in Settings).\n• Redesigned Smart Playlists with dynamic 'currently playing' album art and beautiful shadow UI.\n• Fixed play count tracking for repeating songs."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.1.8/app-arm64-v8a-release.apk",
+  "release_notes": "• Added quick Like button directly on the Lock Screen and Notification Panel.\n• Queue Experience Overhaul: 'Up Next' queue now actively populates a rich, randomized infinite radio station."
 }
