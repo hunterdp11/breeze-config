@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.1",
-  "min_version": "1.2.0",
+  "latest_version": "1.2.2",
+  "min_version": "1.2.1",
   "force_update": false,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.1/app-arm64-v8a-release.apk",
-  "release_notes": "• Added Artist Playlists support.\n• Improved Amoled Black Accent visibility and text contrast.\n• Fixed mini-player jitter during keyboard interactions.\n• Fixed shadow bleeding on full player album art.\n• Fixed loading screen appearing in Wrapped share exports.\n• Polished full player controls alignment."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.2/app-arm64-v8a-release.apk",
+  "release_notes": "• Better Lyrics: Long lyric lines no longer get cut off.\n• New Listening Rooms: Easier and faster room creation to sync music.\n• Sleek Notifications: Modern, non-intrusive floating pill alerts.\n• 120Hz Fluidity: Deep optimizations to prevent heating and guarantee smooth scrolling."
 }
