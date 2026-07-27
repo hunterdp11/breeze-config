@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.2",
-  "min_version": "1.2.1",
+  "latest_version": "1.2.3",
+  "min_version": "1.2.2",
   "force_update": false,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.2/app-arm64-v8a-release.apk",
-  "release_notes": "• Better Lyrics: Long lyric lines no longer get cut off.\n• New Listening Rooms: Easier and faster room creation to sync music.\n• Sleek Notifications: Modern, non-intrusive floating pill alerts.\n• 120Hz Fluidity: Deep optimizations to prevent heating and guarantee smooth scrolling."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.3/app-arm64-v8a-release.apk",
+  "release_notes": "A major update is here. I've completely overhauled the design, added a new Pulse tab for discovering music, and brought in 4K playback. You'll also notice buttery smooth 120Hz scrolling, faster sync rooms, and a battery saver mode to keep the music playing longer."
 }
