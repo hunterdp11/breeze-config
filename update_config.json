@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.3",
-  "min_version": "1.2.2",
-  "force_update": false,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.3/app-arm64-v8a-release.apk",
-  "release_notes": "A major update is here. I've completely overhauled the design, added a new Pulse tab for discovering music, and brought in 4K playback. You'll also notice buttery smooth 120Hz scrolling, faster sync rooms, and a battery saver mode to keep the music playing longer."
+  "latest_version": "1.2.4",
+  "min_version": "1.2.4",
+  "force_update": true,
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.4/app-arm64-v8a-release.apk",
+  "release_notes": "Fixed music and video playback issue, sorry for the delay."
 }
