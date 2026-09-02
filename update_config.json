@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.4",
-  "min_version": "1.2.4",
+  "latest_version": "1.2.5",
+  "min_version": "1.2.5",
   "force_update": true,
-  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.4/app-arm64-v8a-release.apk",
-  "release_notes": "Fixed music and video playback issue, sorry for the delay."
+  "download_url": "https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.5/app-arm64-v8a-release.apk",
+  "release_notes": "• Redesigned Full Player with immersive & classic art modes\n• Lyric Quote Studio to create & share story cards\n• Direct playlist search & add track feature\n• Quick artist navigation from track menus\n• Flat minimal UI design & performance improvements"
 }
